@@ -1,8 +1,8 @@
 # Simple Weather Website 
 
 <p align="left">
-  <a href="www.linkedin.com/in/rishav-k-602367284" alt="Dev Pro Tips Discussion & Support Server">
-    <img src="<i class='bx bxl-linkedin'></i></a>
+  <a href="www.linkedin.com/in/rishav-k-602367284" alt="Rishav Tips Discussion & Support Server">
+    <img src="</a>
 </p>
 
 Simple weather app using HTML, CSS, and JavaScript
