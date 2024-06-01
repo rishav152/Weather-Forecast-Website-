@@ -8,6 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-RishavWebsite.com-green?style=for-the-badge)](https://rishav152.github.io/Weather-Forecast-Website-/)
 
+<div style="background: url('https://github.com/rishav152/Weather-Forecast-Website-/blob/ea4df4202a021cfad2ee6d319eb1ccb5e1fb2739/rain.jpg') no-repeat center center; background-size: cover; padding: 20px; border-radius: 10px;">
 
 Simple weather app using HTML, CSS, and JavaScript
 
