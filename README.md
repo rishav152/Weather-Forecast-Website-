@@ -10,12 +10,12 @@
 
 <div style="background: url('https://raw.githubusercontent.com/rishav152/Weather-Forecast-Website-/ea4df4202a021cfad2ee6d319eb1ccb5e1fb2739/rain.jpg') no-repeat center center; background-size: cover; padding: 20px; border-radius: 10px;">
 
-</div>
 
 Simple weather app using HTML, CSS, and JavaScript
 
 ![image](https://github.com/rishav152/Weather-Forecast-Website-/blob/6343e37a03375ea2f62a06ae8e31cf381c4b14e8/cloud.jpg)
 
+</div>
 
 ## Demo site
 
