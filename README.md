@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rishav-k-602367284)"/></a>
 </p>
 
-[![Website](https://img.shields.io/badge/Website-YourWebsite.com-green?style=for-the-badge)](https://rishav152.github.io/Weather-Forecast-Website-/)
+[![Website](https://img.shields.io/badge/Website-RishavWebsite.com-green?style=for-the-badge)](https://rishav152.github.io/Weather-Forecast-Website-/)
 
 
 Simple weather app using HTML, CSS, and JavaScript
