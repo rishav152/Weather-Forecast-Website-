@@ -12,3 +12,7 @@ Simple weather app using HTML, CSS, and JavaScript
 ![image](https://github.com/rishav152/Weather-Forecast-Website-/blob/6343e37a03375ea2f62a06ae8e31cf381c4b14e8/cloud.jpg)
 
 
+## Demo site
+
+Without Geolocation 👉 https://rishav152.github.io/Weather-Forecast-Website-/
+
